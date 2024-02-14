@@ -4,5 +4,5 @@ Lab exercises for the course Machine Learning for Master of Data Science for Pub
 
 **Tutorial 2**: 
 
-**Data:**: 
-CommunitiesandCrime: Download this dataset where your ML Lab notebooks are saved for Tutorial 2.
+**Data:** 
+**CommunitiesandCrime**: Download this dataset where your ML Lab notebooks are saved for Tutorial 2.
