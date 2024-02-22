@@ -6,4 +6,5 @@ Lab exercises for the course Machine Learning for Master of Data Science for Pub
 
 **Data:** 
 **CommunitiesandCrime**: Download this dataset where your ML Lab notebooks are saved for Tutorial 2.
+
 **Tutorial 3**: Ridge Regression and Lasso Regression using Scikit-Learn on the Communities and crime Dataset from Tutorial 2.
