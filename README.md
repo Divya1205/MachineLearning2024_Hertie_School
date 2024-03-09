@@ -18,3 +18,5 @@ https://www.kaggle.com/code/kanncaa1/world-happiness-expanatory-data-analysis/in
 https://github.com/YaminiAne/Human-Emotion-Recognition-Using-Twitter-Sentiment-Analysis
 
 https://github.com/Divya1205/World-Happiness-Report
+
+https://github.com/Amitha353/Machine-Learning-Regression
