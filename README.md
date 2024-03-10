@@ -11,7 +11,7 @@ Lab exercises for the course Machine Learning for Master of Data Science for Pub
 
 **Tutorial 4 and Tutorial 5** : Using Heart Disease Dataset for EDA, ridge regression, kernel regression and logistic regression.
 
-Tutorial 5: The resources I am looking at for making the lab:
+**Tutorial 5**: The resources I am looking at for making the lab:
 
 https://github.com/Amitha353/Machine-Learning-Regression
 
