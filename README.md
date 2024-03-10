@@ -13,10 +13,9 @@ Lab exercises for the course Machine Learning for Master of Data Science for Pub
 
 Tutorial 5: The resources I am looking at for making the lab:
 
-https://www.kaggle.com/code/kanncaa1/world-happiness-expanatory-data-analysis/input
-
-https://github.com/YaminiAne/Human-Emotion-Recognition-Using-Twitter-Sentiment-Analysis
-
-https://github.com/Divya1205/World-Happiness-Report
-
 https://github.com/Amitha353/Machine-Learning-Regression
+
+https://www.kaggle.com/code/davidmontao/anova-and-linear-regression
+
+The dataset being used is: 
+https://www.kaggle.com/datasets/ajaypalsinghlo/world-happiness-report-2021/data
