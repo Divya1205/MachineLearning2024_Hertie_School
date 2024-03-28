@@ -11,11 +11,4 @@ Lab exercises for the course Machine Learning for Master of Data Science for Pub
 
 **Tutorial 4 and Tutorial 5** : Using Heart Disease Dataset for EDA, ridge regression, lasso regression and logistic regression.
 
-**Tutorial 5**: The resources I am looking at for making the lab:
-
-https://github.com/Amitha353/Machine-Learning-Regression
-
-https://www.kaggle.com/code/davidmontao/anova-and-linear-regression
-
-The dataset being used is: 
-https://www.kaggle.com/datasets/ajaypalsinghlo/world-happiness-report-2021/data
+**Tutorial 6**: Using ISLP to get Hitters Data. Then performing Ridge Regression, Kernel Regression using Gaussian and Polynomial Kernels.
